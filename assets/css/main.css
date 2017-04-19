@@ -23,7 +23,19 @@ img {
     position: relative;
     left: 100px;
 }
-
+article {
+    display: inline-block;
+    font-size: medium;
+    position: relative;
+    left: 100px;
+    width: 500px;
+    height: 30px;
+    padding-left: 30px;
+}
+p{
+    
+    text-align: justify;    
+}
 h2 {
     display: inline-block;
     background-color: #FF5733;
@@ -32,7 +44,7 @@ h2 {
     font-size: medium;
     position: relative;
     left: 100px;
-    width: 300px;
+    width: 350px;
     height: 30px;
     text-align: center;
 }
