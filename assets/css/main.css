@@ -1,9 +1,9 @@
 body {
-    background-color: DARKKHAKI;
+    background-color: PEACHPUFF;
 }
 ul {
     position: relative;
-    background-color: #FF5733;
+    background-color: ROSYBROWN;
 }
 
 li {   
@@ -23,22 +23,20 @@ img {
     position: relative;
     left: 100px;
 }
-article {
+
+p{
     display: inline-block;
-    font-size: medium;
+    text-align: justify;
     position: relative;
+    font-size: medium;    
     left: 100px;
     width: 500px;
     height: 30px;
-    padding-left: 30px;
-}
-p{
-    
-    text-align: justify;    
+    padding-left: 30px;    
 }
 h2 {
     display: inline-block;
-    background-color: #FF5733;
+    background-color: ROSYBROWN;
     padding:10px;
     color: white;
     font-size: medium;
