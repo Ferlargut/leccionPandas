@@ -4,6 +4,7 @@ body {
 ul {
     position: relative;
     background-color: ROSYBROWN;
+    margin: 0px;
 }
 
 li {   
@@ -15,13 +16,15 @@ li {
 a {
     color: white;
     position: relative;
-    left: 100px;
+    left: 100px;    
 }
 
 img {
     border: 4px solid SILVER;
     position: relative;
     left: 100px;
+    height: 200px;
+    width: 300px;
 }
 
 p{
@@ -46,4 +49,9 @@ h2 {
     width: 350px;
     height: 30px;
     text-align: center;
+}
+#primero{
+    bottom: 233px;
+    left: 561px;
+    position: relative;
 }
